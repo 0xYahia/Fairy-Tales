@@ -2,7 +2,7 @@
 
 ### in this project I used HTML & CSS
 
-- [live demo](https://mohamdyahia.github.io/Fairy-Tales/)
+- [live demo](https://0xyahia.github.io/Fairy-Tales/)
 - [code](https://github.com/MohamedYahia831/Design_Number_Three/blob/main/index.html)
 
 <p align="center">
